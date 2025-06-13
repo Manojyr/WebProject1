@@ -135,5 +135,4 @@ How to run the app locally
 
 Optional features included
 
-Reference video Link:
-https://1drv.ms/v/c/e9e8b87622fb1ae5/ERDwm_BPLT5JowQIw1v-_OwB7toNXqYpeAYJTdZd6OzWdw
+
